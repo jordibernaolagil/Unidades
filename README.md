@@ -18,11 +18,14 @@
    
 5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
 
-   
+   2.000.000 / 8=250.000/1.000.000=0,25MB    700MB/0,25MB=2.800fotos.
 
 6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
 Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitaria?
 
+X=(80x20)/100= 16GB (ocupados).         80GB-16GB=64GB(quedan).
+CDs→700MB=0,7GB.          CDs→64GB/0,7GB=91,43CDs.
+DVD→4,7GB.                          DVD→64GB/4,7GB=13,62DVD.
 
 
 7) Un arxiu DIV-X ocupa 5,6GB . 
